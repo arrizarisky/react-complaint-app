@@ -98,10 +98,13 @@ Silakan buka **issue** atau **pull request** untuk:
 
 ## 📧 Kontak
 
-`arrizarisky@gmail.com`
+`arrizarisky14@gmail.com`
 
 
 ## 🖼️ Demo App
+### Get Started
 ![Get Started Preview](./Demo/image1.png)
+
+###Chat AI Admin
 ![Chat Admin AI Preview](./Demo/image2.png)
 ![Load Chat Admin AI Preview](./Demo/image3.png)
